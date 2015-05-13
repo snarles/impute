@@ -1,0 +1,5 @@
+latex impute.tex
+bibtex impute.aux
+latex impute.tex
+pdflatex impute.tex
+evince impute.pdf &

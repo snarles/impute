@@ -1,0 +1,148 @@
+\begin{thebibliography}{10}
+
+\bibitem{Almeida2011}
+M.~a.~a. Almeida, P.~S.~L. Oliveira, T.~V. Pereira, J.~E. Krieger, and A.~C.
+  Pereira.
+\newblock {An empirical evaluation of imputation accuracy for association
+  statistics reveals increased type-I error rates in genome-wide associations.}
+\newblock {\em BMC genetics}, 12(1):10, Jan. 2011.
+
+\bibitem{Benjamini1995}
+Y.~Benjamini and Y.~Hochberg.
+\newblock {Controlling the false discovery rate: a practical and powerful
+  approach to multiple testing}.
+\newblock {\em Journal of the Royal Statistical Society. Series B \ldots},
+  1995.
+
+\bibitem{Bogdan2013}
+M.~Bogdan and W.~Su.
+\newblock {Statistical Estimation and Testing via the Sorted}.
+\newblock pages 1--46, 2013.
+
+\bibitem{Clarke2011}
+G.~M. Clarke, C.~a. Anderson, F.~H. Pettersson, L.~R. Cardon, A.~P. Morris, and
+  K.~T. Zondervan.
+\newblock {Basic statistical analysis in genetic case-control studies.}
+\newblock {\em Nature protocols}, 6(2):121--33, Feb. 2011.
+
+\bibitem{Dudbridge2006}
+F.~Dudbridge, A.~Gusnanto, and B.~P.~C. Koeleman.
+\newblock {Detecting multiple associations in genome-wide studies.}
+\newblock {\em Human genomics}, 2(5):310--7, Mar. 2006.
+
+\bibitem{Dupuis2010}
+J.~Dupuis, C.~Langenberg, I.~Prokopenko, R.~Saxena, N.~Soranzo, A.~U. Jackson,
+  E.~Wheeler, N.~L. Glazer, N.~Bouatia-Naji, A.~L. Gloyn, C.~M. Lindgren,
+  R.~M\"{a}gi, A.~P. Morris, J.~Randall, T.~Johnson, P.~Elliott, D.~Rybin,
+  G.~Thorleifsson, V.~Steinthorsdottir, et~al.
+\newblock {New genetic loci implicated in fasting glucose homeostasis and their
+  impact on type 2 diabetes risk.}
+\newblock {\em Nature genetics}, 42(2):105--16, Feb. 2010.
+
+\bibitem{Frommlet2010}
+F.~Frommlet, F.~Ruhaltinger, and P.~Twar.
+\newblock {A model selection approach to genome wide association studies}.
+\newblock 2010.
+
+\bibitem{Guan2008}
+Y.~Guan and M.~Stephens.
+\newblock {Practical issues in imputation-based association mapping.}
+\newblock {\em PLoS genetics}, 4(12):e1000279, Dec. 2008.
+
+\bibitem{HapMap2007}
+HapMap.
+\newblock {A second generation human haplotype map of over 3 . 1 million SNPs}.
+\newblock {\em Nature}, 449(7164):851--861, 2007.
+
+\bibitem{Javanmard2013}
+A.~Javanmard and A.~Montanari.
+\newblock {Confidence Intervals and Hypothesis Testing for High-Dimensional
+  Regression}.
+\newblock pages 1--22, 2013.
+
+\bibitem{Levy2009}
+D.~Levy, G.~B. Ehret, K.~Rice, G.~C. Verwoert, L.~J. Launer, A.~Dehghan, N.~L.
+  Glazer, A.~C. Morrison, A.~D. Johnson, T.~Aspelund, Y.~Aulchenko, T.~Lumley,
+  A.~K\"{o}ttgen, R.~S. Vasan, F.~Rivadeneira, G.~Eiriksdottir, X.~Guo, D.~E.
+  Arking, G.~F. Mitchell, F.~U.~S. Mattace-Raso, A.~V. Smith, K.~Taylor, R.~B.
+  Scharpf, S.-J. Hwang, E.~J.~G. Sijbrands, J.~Bis, T.~B. Harris, S.~K. Ganesh,
+  C.~J. O'Donnell, A.~Hofman, J.~I. Rotter, J.~Coresh, E.~J. Benjamin, A.~G.
+  Uitterlinden, G.~Heiss, C.~S. Fox, J.~C.~M. Witteman, E.~Boerwinkle, T.~J.
+  Wang, V.~Gudnason, M.~G. Larson, A.~Chakravarti, B.~M. Psaty, and C.~M. van
+  Duijn.
+\newblock {Genome-wide association study of blood pressure and hypertension.}
+\newblock {\em Nature genetics}, 41(6):677--87, June 2009.
+
+\bibitem{Lin2005}
+D.~Y. Lin.
+\newblock {An efficient Monte Carlo approach to assessing statistical
+  significance in genomic studies.}
+\newblock {\em Bioinformatics (Oxford, England)}, 21(6):781--7, Mar. 2005.
+
+\bibitem{Marchini2010}
+J.~Marchini and B.~Howie.
+\newblock {Genotype imputation for genome-wide association studies.}
+\newblock {\em Nature reviews. Genetics}, 11(7):499--511, July 2010.
+
+\bibitem{Pearson2008}
+T.~a. Pearson and T.~a. Manolio.
+\newblock {How to interpret a genome-wide association study.}
+\newblock {\em JAMA : the journal of the American Medical Association},
+  299(11):1335--44, Mar. 2008.
+
+\bibitem{Reich2001}
+D.~E. Reich, M.~Cargill, S.~Bolk, J.~Ireland, P.~C. Sabeti, D.~J. Richter,
+  T.~Lavery, R.~Kouyoumjian, S.~F. Farhadian, R.~Ward, and E.~S. Lander.
+\newblock {Linkage disequilibrium in the human genome.}
+\newblock {\em Nature}, 411(6834):199--204, May 2001.
+
+\bibitem{Risch1996}
+N.~Risch and K.~Merikangas.
+\newblock {The future of genetic studies of complex human diseases.}
+\newblock {\em Science (New York, N.Y.)}, 273(5281):1516--7, Sept. 1996.
+
+\bibitem{Servin2007}
+B.~Servin and M.~Stephens.
+\newblock {Imputation-based analysis of association studies: candidate regions
+  and quantitative traits.}
+\newblock {\em PLoS genetics}, 3(7):e114, July 2007.
+
+\bibitem{Stephens2009}
+M.~Stephens and D.~J. Balding.
+\newblock {Bayesian statistical methods for genetic association studies.}
+\newblock {\em Nature reviews. Genetics}, 10(10):681--90, Oct. 2009.
+
+\bibitem{Stephens2005}
+M.~Stephens and P.~Scheet.
+\newblock {Accounting for decay of linkage disequilibrium in haplotype
+  inference and missing-data imputation.}
+\newblock {\em American journal of human genetics}, 76(3):449--62, Mar. 2005.
+
+\bibitem{Storey2003}
+J.~D. Storey and R.~Tibshirani.
+\newblock {Statistical significance for genomewide studies.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 100(16):9440--5, Aug. 2003.
+
+\bibitem{Taylor}
+J.~Taylor, J.~Loftus, R.~J. Tibshirani, and M.~E. Sep.
+\newblock {Tests in Adaptive Regression via the Kac-Rice Formula}.
+\newblock (2):1--33, 2013.
+
+\bibitem{Visscher2012}
+P.~M. Visscher, M.~a. Brown, M.~I. McCarthy, and J.~Yang.
+\newblock {Five years of GWAS discovery.}
+\newblock {\em American journal of human genetics}, 90(1):7--24, Jan. 2012.
+
+\bibitem{Wager2013a}
+S.~Wager.
+\newblock {An Empirical Bayes Approach to Non-Sparse}.
+\newblock pages 1--20, 2013.
+
+\bibitem{Ziegler2008}
+A.~Ziegler, I.~R. K\"{o}nig, and J.~R. Thompson.
+\newblock {Biostatistical aspects of genome-wide association studies.}
+\newblock {\em Biometrical journal. Biometrische Zeitschrift}, 50(1):8--28,
+  Feb. 2008.
+
+\end{thebibliography}
